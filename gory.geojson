@@ -1,0 +1,1641 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+	        "Nazwa Szczytu":"Rysy",
+	        "Pasmo Górskie":"Tatry",
+	        "Wysokość Góry":"2499",
+	        "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+	        "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.088444,
+          49.179306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Babia Góra ",
+          "Pasmo Górskie":"Beskid Żywiecki",
+          "Wysokość Góry":"1725",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.529444,
+          49.573333
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Śnieżka ",
+          "Pasmo Górskie":"Karkonosze",
+          "Wysokość Góry":"1603",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.739167,
+          50.735833
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Śnieżnik ",
+          "Pasmo Górskie":"Masyw Śnieżnika",
+          "Wysokość Góry":"1423",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.849226,
+          50.207004
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Tarnica",
+          "Pasmo Górskie":"Bieszczady Zachodnie",
+          "Wysokość Góry":"1346",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.72675,
+          49.074778
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Turbacz",
+          "Pasmo Górskie":"Gorce",
+          "Wysokość Góry":"1310",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.111556,
+          49.542944
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Radziejowa",
+          "Pasmo Górskie":"Beskid Sądecki",
+          "Wysokość Góry":"1266",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.604444,
+          49.449444
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Skrzyczne",
+          "Pasmo Górskie":"Beskid Śląski",
+          "Wysokość Góry":"1257",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.030278,
+          49.684444
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Mogielica",
+          "Pasmo Górskie":"Beskid Wyspowy",
+          "Wysokość Góry":"1171",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.276694,
+          49.655194
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Wysoka Kopa",
+          "Pasmo Górskie":"Góry Izerskie",
+          "Wysokość Góry":"1126",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+          "ikona":"12"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42,
+          50.850278
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Rudawiec ",
+          "Pasmo Górskie":"Góry Bialskie",
+          "Wysokość Góry":"1106",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski",
+          "ikona":"1"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.975889,
+          50.244056
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Orlica",
+          "Pasmo Górskie":"Góry Orlickie",
+          "Wysokość Góry":"1084",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+          "ikona":"12"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.360719,
+          50.353186
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Wysoka",
+          "Pasmo Górskie":"Pieniny",
+          "Wysokość Góry":"1050",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+          "ikona":"12"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.555556,
+          49.380278
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Wielka Sowa",
+          "Pasmo Górskie":"Góry Sowie",
+          "Wysokość Góry":"1015",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.485497,
+          50.680158
+        ]
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "properties": {
+          "Nazwa Szczytu":"Lackowa",
+          "Pasmo Górskie":"Beskid Niski",
+          "Wysokość Góry":"997",
+          "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+          "ikona":"123"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.096111,
+          49.428333
+        ]
+      }
+    },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Kowadło",
+              "Pasmo Górskie":"Góry Złote",
+              "Wysokość Góry":"989",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+              "ikona":"12"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+               17.013219,
+              50.264433
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Jagodna / Jagodna pn.",
+              "Pasmo Górskie":"Góry Bystrzyckie",
+              "Wysokość Góry":"977",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+              "ikona":"12"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+               16.564417,
+              50.252461
+            ]
+          }
+        },
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Skalnik",
+              "Pasmo Górskie":"Rudawy Janowickie",
+              "Wysokość Góry":"945",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+              "ikona":"12"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+               15.90025,
+               50.8085
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Waligóra",
+              "Pasmo Górskie":"Góry Kamienne",
+              "Wysokość Góry":"936",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"123"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+               16.283333,
+               50.683333
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Czupel",
+              "Pasmo Górskie":"Beskid Mały",
+              "Wysokość Góry":"933",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"123"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+               19.155278,
+               49.766111
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Szczeliniec Wielki",
+              "Pasmo Górskie":"Góry Stołowe",
+              "Wysokość Góry":"919",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+              "ikona":"12"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+               16.339167,
+               50.485833
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Lubomir",
+              "Pasmo Górskie":"Beskid Makowski",
+              "Wysokość Góry":"904",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"123"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.059722,
+               49.766944
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Biskupia Kopa",
+              "Pasmo Górskie":"Góry Opawskie",
+              "Wysokość Góry":"889",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+              "ikona":"12"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17.422791,
+                50.256002
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Chełmiec",
+              "Pasmo Górskie":"Góry Wałbrzyskie",
+              "Wysokość Góry":"851",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+              "ikona":"12"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.210278,
+                50.779167
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Kłodzka Góra",
+              "Pasmo Górskie":"Góry Bardzkie",
+              "Wysokość Góry":"765",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+              "ikona":"12"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.753211,
+                50.451653
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Skopiec",
+              "Pasmo Górskie":"Góry Kaczawskie",
+              "Wysokość Góry":"724",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"123"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15.884667,
+                50.943972
+            ]
+          }
+        },
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Ślęża",
+              "Pasmo Górskie":"Masyw Ślęży",
+              "Wysokość Góry":"718",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór",
+              "ikona":"12"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.708611,
+                50.865
+            ]
+          }
+        },
+
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Łysica",
+              "Pasmo Górskie":"Góry Świętokrzyskie",
+              "Wysokość Góry":"718",
+              "Odznaki Koron ogólnopolskich":"Korona Gór Polski,Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"123"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 20.900833,
+                 50.890833
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Wielka Czantoria",
+              "Pasmo Górskie":"Beskid Śląski",
+              "Wysokość Góry":"995",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 18.804444,
+                 49.678611
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Klimczok",
+              "Pasmo Górskie":"Beskid Śląski",
+              "Wysokość Góry":"1117",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 19.007444,
+                 49.738472
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Łamana Skała",
+              "Pasmo Górskie":"Beskid Mały",
+              "Wysokość Góry":"929",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 19.396028,
+                 49.763611
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Wielka Racza",
+              "Pasmo Górskie":"Beskid Żywiecki",
+              "Wysokość Góry":"1236",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 18.968806,
+                 49.413306
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Pilsko",
+              "Pasmo Górskie":"Beskid Żywiecki",
+              "Wysokość Góry":"1542",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 19.318333,
+                 49.527222
+            ]
+          }
+        },
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Jałowiec",
+              "Pasmo Górskie":"Beskid Żywiecki",
+              "Wysokość Góry":"1111",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 19.477278,
+                 49.660889
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Polica",
+              "Pasmo Górskie":"Beskid Żywiecki",
+              "Wysokość Góry":"1369",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                  19.61925,
+                 49.623722
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Bukowiński Wierch",
+              "Pasmo Górskie":"Beskid Żywiecki",
+              "Wysokość Góry":"940",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                  19.831944,
+                 49.523333
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Lasek",
+              "Pasmo Górskie":"Beskid Makowski",
+              "Wysokość Góry":"868",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                  19.375,
+                 49.642472
+            ]
+          }
+        },
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Babica",
+              "Pasmo Górskie":"Beskid Makowski",
+              "Wysokość Góry":"728",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.800806,
+                 49.787667
+            ]
+          }
+        },
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Koskowa Góra",
+              "Pasmo Górskie":"Beskid Makowski",
+              "Wysokość Góry":"867",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.782889,
+                 49.750694
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Luboń Wielki",
+              "Pasmo Górskie":"Beskid Wyspowy",
+              "Wysokość Góry":"1022",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.991778,
+                 49.653556
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Ćwilin",
+              "Pasmo Górskie":"Beskid Wyspowy",
+              "Wysokość Góry":"1072",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.19175,
+                49.688667
+            ]
+          }
+        },
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Modyń",
+              "Pasmo Górskie":"Beskid Wyspowy",
+              "Wysokość Góry":"1029",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.376028,
+              49.621194
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Jaworz",
+              "Pasmo Górskie":"Beskid Wyspowy",
+              "Wysokość Góry":"921",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.521167,
+              49.720733
+            ]
+          }
+        },
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Lubań",
+              "Pasmo Górskie":"Gorce",
+              "Wysokość Góry":"1225",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.338972,
+              49.489333
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Jaworzyna Krynicka",
+              "Pasmo Górskie":"Beskid Sądecki",
+              "Wysokość Góry":"1114",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                20.8955,
+            49.417944
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Kraczonik",
+              "Pasmo Górskie":"Beskid Sądecki",
+              "Wysokość Góry":"934",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                 20.939389,
+            49.31525
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Kozie Żebro",
+              "Pasmo Górskie":"Beskid Niski",
+              "Wysokość Góry":"847",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                  21.203611,
+            49.4625
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Wątkowa",
+              "Pasmo Górskie":"Beskid Niski",
+              "Wysokość Góry":"846",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                   21.366667,
+          49.576111
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Baranie",
+              "Pasmo Górskie":"Beskid Niski",
+              "Wysokość Góry":"754",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                   21.596389,
+          49.437222
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Kamień",
+              "Pasmo Górskie":"Beskid Niski",
+              "Wysokość Góry":"857",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    21.820469,
+          49.395681
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Tokarnia",
+              "Pasmo Górskie":"Beskid Niski",
+              "Wysokość Góry":"778",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    22.031944,
+          49.433056
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Żar",
+              "Pasmo Górskie":"Pieniny",
+              "Wysokość Góry":"883",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    19.224869,
+          49.787239
+            ]
+          }
+        },
+
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Trzy Korony",
+              "Pasmo Górskie":"Pieniny",
+              "Wysokość Góry":"982",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    20.414167,
+          49.413806
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Starorobociański Wierch",
+              "Pasmo Górskie":"Tatry",
+              "Wysokość Góry":"2176",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    19.819944,
+          49.199361
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Krzesanica",
+              "Pasmo Górskie":"Tatry",
+              "Wysokość Góry":"2122",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    19.909472,
+          49.231667
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Świnica",
+              "Pasmo Górskie":"Tatry",
+              "Wysokość Góry":"2301",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    20.009306,
+          49.219417
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Słonny",
+              "Pasmo Górskie":"Góry Sanocko-Turczańskie",
+              "Wysokość Góry":"668",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    22.2775,
+          49.5775
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Jaworniki",
+              "Pasmo Górskie":"Góry Sanocko-Turczańskie",
+              "Wysokość Góry":"908",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    22.6835,
+          49.3511
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Trohaniec",
+              "Pasmo Górskie":"Bieszczady",
+              "Wysokość Góry":"939",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     22.658889,
+          49.234167
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Łopiennik",
+              "Pasmo Górskie":"Bieszczady",
+              "Wysokość Góry":"1069",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                      22.341111,
+        49.245
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Wołosań",
+              "Pasmo Górskie":"Bieszczady",
+              "Wysokość Góry":"1071",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                      22.253333,
+                      49.239167
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Wielka Rawka",
+              "Pasmo Górskie":"Bieszczady",
+              "Wysokość Góry":"1307",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór,Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"23"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    22.576389,
+                    49.099444
+            ]
+          }
+        },
+
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Skalny Stół",
+              "Pasmo Górskie":"Karkonosze",
+              "Wysokość Góry":"1282",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                    15.791542,
+                    50.752711
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Łysocina",
+              "Pasmo Górskie":"Karkonosze",
+              "Wysokość Góry":"1188",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     15.830389,
+                    50.725214
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Okole",
+              "Pasmo Górskie":"Góry Kaczawskie",
+              "Wysokość Góry":"718",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     15.817889,
+                     50.980694
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Maślak – Folwarczna",
+              "Pasmo Górskie":"Góry Kaczawskie",
+              "Wysokość Góry":"720",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     15.872861,
+                     50.943861
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Baraniec",
+              "Pasmo Górskie":"Góry Kaczawskie",
+              "Wysokość Góry":"720",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     15.884417,
+                    50.940861
+            ]
+          }
+        },
+
+
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Poręba",
+              "Pasmo Górskie":"Góry Kaczawskie",
+              "Wysokość Góry":"671",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     16.037222,
+                     50.892222
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Krzyżna Góra",
+              "Pasmo Górskie":"Rudawy Janowickie",
+              "Wysokość Góry":"654",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     15.868336,
+                     50.864181
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Trójgarb",
+              "Pasmo Górskie":"Góry Wałbrzyskie",
+              "Wysokość Góry":"778",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     16.163333,
+                     50.81285
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Borowa",
+              "Pasmo Górskie":"Góry Wałbrzyskie",
+              "Wysokość Góry":"853",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     16.303056,
+                     50.722778
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Lesista Wielka",
+              "Pasmo Górskie":"Góry Kamienne",
+              "Wysokość Góry":"851",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     16.190222,
+                     50.702722
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Szeroka",
+              "Pasmo Górskie":"Góry Kamienne",
+              "Wysokość Góry":"842",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     15.993611,
+                    50.673611
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Jański Wierch",
+              "Pasmo Górskie":"Góry Jastrzębie",
+              "Wysokość Góry":"697",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     15.989167,
+                    50.611667
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Róg",
+              "Pasmo Górskie":"Góry Stołowe",
+              "Wysokość Góry":"715",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                  16.1,
+                  50.673672
+            ]
+          }
+        },
+
+
+
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Włodarz",
+              "Pasmo Górskie":"Góry Sowie",
+              "Wysokość Góry":"811",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                  16.409778,
+                50.695556
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Szeroka Góra",
+              "Pasmo Górskie":"Góry Bardzkie",
+              "Wysokość Góry":"770",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                  16.409778,
+                50.695556
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Postawna",
+              "Pasmo Górskie":"Góry Bialskie",
+              "Wysokość Góry":"1117",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                17.011667,
+                50.223333
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Suchoń",
+              "Pasmo Górskie":"Masyw Śnieżnika",
+              "Wysokość Góry":"964",
+              "Odznaki Koron ogólnopolskich":"Diadem Polskich Gór",
+              "ikona":"2"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16.776111,
+                50.272778
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Połonina Caryńska",
+              "Pasmo Górskie":"Bieszczady",
+              "Wysokość Góry":"1297",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     22.602753,
+                    49.139055
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Lubogoszcz",
+              "Pasmo Górskie":"Beskid Wyspowy",
+              "Wysokość Góry":"968",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     20.098778,
+                    49.712611
+            ]
+          }
+        },
+
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Połonina Wetlińska",
+              "Pasmo Górskie":"Bieszczady",
+              "Wysokość Góry":"1255",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     22.528581,
+                     49.167233
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Śnieżnica",
+              "Pasmo Górskie":"Beskid Wyspowy",
+              "Wysokość Góry":"1006",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     20.178056,
+                     49.716667
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Kamionna",
+              "Pasmo Górskie":"Beskid Wyspowy",
+              "Wysokość Góry":"801",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     20.396306,
+                     49.778611
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Szczebel",
+              "Pasmo Górskie":"Beskid Wyspowy",
+              "Wysokość Góry":"977",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     20.010444,
+                     49.688472
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Wielki Szyszak",
+              "Pasmo Górskie":"Karkonosze",
+              "Wysokość Góry":"1509",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     15.567814,
+                     50.776942
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Jaworze",
+              "Pasmo Górskie":"Beskid Niski",
+              "Wysokość Góry":"882",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     20.912972,
+                     49.57475
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Czerenina",
+              "Pasmo Górskie":"Bieszczady",
+              "Wysokość Góry":"981",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     22.406389,
+                     49.213611
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Paportna",
+              "Pasmo Górskie":"Bieszczady",
+              "Wysokość Góry":"1198",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                     22.444444,
+                    49.113333
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Maślana Góra",
+              "Pasmo Górskie":"Beskid Niski",
+              "Wysokość Góry":"753",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                  21.058333,
+                  49.644444
+            ]
+          }
+        },
+
+
+        {
+          "type": "Feature",
+          "properties": {
+              "Nazwa Szczytu":"Ciecień",
+              "Pasmo Górskie":"Beskid Wyspowy",
+              "Wysokość Góry":"829",
+              "Odznaki Koron ogólnopolskich":"Korona Najwybitniejszych Szczytów Gór Polskich",
+              "ikona":"3"},
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+                  20.150361,
+                49.773778
+            ]
+          }
+        }
+
+
+
+
+
+
+  ]
+}
